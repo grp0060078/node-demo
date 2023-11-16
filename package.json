@@ -1,0 +1,20 @@
+{
+  "name": "node-project",
+  "version": "1.0.0",
+  "description": "simple web server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grp0060078/node-demo.git"
+  },
+  "author": "rajapandi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grp0060078/node-demo/issues"
+  },
+  "homepage": "https://github.com/grp0060078/node-demo#readme"
+}
